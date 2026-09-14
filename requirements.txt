@@ -1,0 +1,6 @@
+requests
+colorama
+dnspython
+beautifulsoup4
+urllib3
+PySocks
